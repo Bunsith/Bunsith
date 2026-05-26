@@ -59,15 +59,6 @@ Delivery management platform with:
 - Payment integration
 - Notification system
 
-### 🏢 AXIS CORE System
-
-Enterprise SaaS admin platform featuring:
-- Organization management
-- Subscription & billing
-- Roles & permissions
-- Revenue analytics
-- Multi-tenant architecture
-
 ### 🛒 Offizify (Stationery System)
 
 Business stationery platform with:
